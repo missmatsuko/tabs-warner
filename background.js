@@ -3,7 +3,7 @@
  */
 
 const WEB_PROTOCOLS = ['http:', 'https:'];
-const MAX_TABS_PER_WEBSITE = 4; // Should be 4, according to this tweet: https://twitter.com/margarinemargie/status/1257336701703389196/
+const MAX_TABS_PER_WEBSITE = 4; // Should be 4, according to this tweet: https://twitter.com/margarinemargie/status/1257336701703389196
 const LIST_SEPARATOR = `\n- `;
 
 /**
